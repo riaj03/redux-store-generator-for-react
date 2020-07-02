@@ -1,3 +1,6 @@
+/**
+ * Author: Riajul Islam (riaj.csp@gmail.com)
+ */
 const chalk = require('chalk');
 const fs = require('fs');
 const config = require("./config.json");

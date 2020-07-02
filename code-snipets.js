@@ -1,3 +1,6 @@
+/**
+ * Author: Riajul Islam (riaj.csp@gmail.com)
+ */
 module.exports = {
 	actionTypes: {
 		actionTypeGroup: `

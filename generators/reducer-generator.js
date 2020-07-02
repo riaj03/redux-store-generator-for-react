@@ -1,3 +1,6 @@
+/**
+ * Author: Riajul Islam (riaj.csp@gmail.com)
+ */
 const sinpets = require('../code-snipets');
 const fs = require('fs');
 const methodAndModelName = require("./method-name");
